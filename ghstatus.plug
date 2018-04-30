@@ -1,0 +1,7 @@
+[Core]
+Name = GHStatus
+Module = ghstatus
+
+[Documentation]
+Description = Maps your team on slack to github and query their status.
+
