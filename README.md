@@ -1,5 +1,5 @@
 [![CI Status](https://img.shields.io/travis/argoai/err-ghstatus/master.svg)](https://travis-ci.org/argoai/err-ghstatus/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License: MIT](https://img.shields.io/badge/License-Apachev2-yellow.svg)](https://opensource.org/licenses/MIT)
 
 This is a Github plugin for errbot. It allows to keep track of the relation between your chat users and your github
 users and query various statuses of their PRs on Github.
